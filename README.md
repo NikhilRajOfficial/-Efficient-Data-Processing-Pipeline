@@ -54,9 +54,6 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-## 🏗 Architecture Diagram
-![Architecture Diagram](images/architecture.png)
-
 ## 🛠 How It Works
 1. **Data Ingestion:** A CSV file containing customer records is read using Spring Batch.
 2. **Data Transformation:** Customer data is validated and transformed.
