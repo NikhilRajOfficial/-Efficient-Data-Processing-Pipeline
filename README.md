@@ -1,6 +1,3 @@
-# -Efficient-Data-Processing-Pipeline
-
-
 
 # Efficient Data Processing Pipeline
 
